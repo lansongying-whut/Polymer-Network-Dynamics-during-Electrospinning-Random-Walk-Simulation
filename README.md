@@ -1,2 +1,3 @@
-# Random-Walk-Simulation
-Study of electrospinning polymer solution jets, particularly of the evolution of the polymer entangled network during electrospinning, is of interest in clarifying the microstructure of as-spun nanofibers.
+# 3D无规行走模拟聚合物分子链
+需要python库matplotlib
+简单格子模型。下一步引入应力场条件下的变化
